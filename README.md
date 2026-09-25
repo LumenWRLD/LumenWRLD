@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ## 🎓 About Me
 
-- 🏫 Studying at **Peter the Great St. Petersburg Polytechnic University**
-- 💻 Love coding
-- 🎨 Designing in **Figma** and **Photoshop**
-- 🚀 Long-term goal: build my own startup
-- 📍 Based in Saint Petersburg, Russia
+-  Studying at **Peter the Great St. Petersburg Polytechnic University**
+-  Love coding
+-  Designing in **Figma** and **Photoshop**
+-  Long-term goal: build my own startup
+-  Based in Saint Petersburg, Russia
 
 ## 🧰 Tech Stack
 
